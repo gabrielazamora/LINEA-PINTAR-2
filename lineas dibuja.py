@@ -9,6 +9,9 @@ Exercises
 5. Add width parameter.
 
 """
+"""
+primer cambio Gaby Zamora
+"""
 
 from turtle import *
 
