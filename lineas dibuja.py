@@ -11,7 +11,6 @@ Exercises
 """
 """
 primer cambio Gaby Zamora
-entrar a la rama 1
 """
 
 from turtle import *
