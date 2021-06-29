@@ -11,7 +11,9 @@ Exercises
 """
 """
 primer cambio Gaby Zamora
+miembro del equipo Irina Kaminsky
 """
+
 
 from turtle import *
 
